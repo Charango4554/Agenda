@@ -22,3 +22,4 @@ The Contact class has the name, surname, phone and email attributes. The Agenda 
 'rechercher_contact' : searches for a contact by name.
 'supprimer_contact': deletes one or more contacts by name.
 Finally, the code includes a main function to launch the interactive menu for users to select the different options (add, display, search, delete) and to manage user entries.
+
